@@ -2,7 +2,7 @@
 //  ProductItem+CoreDataProperties.swift
 //  HIToyz_FinalProject
 //
-//  Created by prk on 08/12/23.
+//  Created by prk on 09/12/23.
 //
 //
 
@@ -18,7 +18,7 @@ extension ProductItem {
 
     @NSManaged public var qty: Int32
     @NSManaged public var subtotal: Float
-    @NSManaged public var product: Product?
+    @NSManaged public var productName: String?
     @NSManaged public var transaction: Transaction?
 
 }

@@ -71,15 +71,15 @@
 		05CCE8AD2B2342E0008BEB13 /* ProductItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemTableViewCell.swift; sourceTree = "<group>"; };
 		05D3A14A2AEF97D800B1C0D3 /* CustomKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomKit.swift; sourceTree = "<group>"; };
 		05DEAF582B21CB2200320F87 /* UpdateContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateContainerViewController.swift; sourceTree = "<group>"; };
-		05E04E482B1096EC00B3C158 /* User+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
-		05E04E492B1096EC00B3C158 /* User+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
+		05E04E482B1096EC00B3C158 /* User+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User+CoreDataClass.swift"; sourceTree = "<group>"; };
+		05E04E492B1096EC00B3C158 /* User+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "User+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		05E04E4C2B10A24700B3C158 /* CustomLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLogic.swift; sourceTree = "<group>"; };
 		05E04E4E2B10B0B700B3C158 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		05E04E522B10B26300B3C158 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		05E04E542B10B60100B3C158 /* TransactionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionViewController.swift; sourceTree = "<group>"; };
 		05E04E562B10C02000B3C158 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		05E31D572B245403007C3282 /* ProductItem+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "ProductItem+CoreDataClass.swift"; path = "../../ProductItem+CoreDataClass.swift"; sourceTree = "<group>"; };
-		05E31D582B245403007C3282 /* ProductItem+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "ProductItem+CoreDataProperties.swift"; path = "../../ProductItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		05E31D572B245403007C3282 /* ProductItem+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductItem+CoreDataClass.swift"; sourceTree = "<group>"; };
+		05E31D582B245403007C3282 /* ProductItem+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
